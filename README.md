@@ -76,10 +76,9 @@ Here are some ideas to get you started:
 <!--![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)-->
 
-
-<br/>
-<br/>
 <!--
+<br/>
+
 ---
 #### Experience
 - Professional Researcher
@@ -158,6 +157,5 @@ Here are some ideas to get you started:
     - Use OpenCV to detect obstacles.
     - Use RoboC to set humanoid robot's actions.
     - Get club grants more than 8,000,000 Won as a general affairs from Samsung Friendship and KOFST(The Korean Federation of Science and Technology).
-
 ---
 -->
