@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   - Kookmin University, Seoul, Korea (2018 ~ now)
 - Student ID: 20181597
 - Name: Jimin Kim (김지민)
-- GitHub ID: [JiminK](https://github.com/JiminK)
+- GitHub ID: [miniee](https://github.com/JiminK)
 - BOJ(Baekjoon Online Judge) ID: [jimin981005](http://boj.kr/u/jimin981005)
 - email: jimin981005@gmail.com
 <!-- LinkedIn: [Jiwook Choi](https://www.linkedin.com/in/jiwook-choi-woogie/)-->
