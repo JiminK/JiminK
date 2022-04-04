@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiminK&hide=jupyter%20notebook&layout=compact&theme=ayu-mirage)](https://github.com/JiminK/JiminK)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiminK&hide=jupyter%20notebook&layout=compact&theme=ayu-mirage)](https://github.com/JiminK/JiminK) -->
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
