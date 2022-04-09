@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 
 
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MobX](https://img.shields.io/badge/-Mobx-black?style=flat-square&logo=Mobx)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
