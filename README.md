@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=JiminK&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=JiminK&include_all_commits=true&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- &include_all_commits=true -->
 <!--
