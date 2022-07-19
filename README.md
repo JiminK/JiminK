@@ -50,12 +50,15 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5a5a5a?style=flat-square&logo=javascript)
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=Amazon%20AWS)
@@ -63,16 +66,23 @@ Here are some ideas to get you started:
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
 ![Slack](https://img.shields.io/badge/-Slack-4e188c?style=flat-square&logo=Slack)
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
 ![ROS](https://img.shields.io/badge/-ROS-black?style=flat-square&logo=ROS)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code)
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2e0d7d?style=flat-square&logo=Eclipse)
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 
 
 
-<!--![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+<!--
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MobX](https://img.shields.io/badge/-Mobx-black?style=flat-square&logo=Mobx)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=Apollo%20GraphQL)-->
 <!--![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)-->
