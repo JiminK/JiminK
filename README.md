@@ -18,18 +18,9 @@ Here are some ideas to get you started:
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FF5F90&title_bg=%23FFA5CD&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FFB10D&title_bg=%23525252&icon=html5.svg&icon_color=%23FFB10D&title=HTML&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%231ECAFF&title_bg=%23525252&icon=css3.svg&icon_color=%231ECAFF&title=CSS&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23B7FF09&title_bg=%23525252&icon=javascript.svg&icon_color=%23FFFF09&title=JavaScript&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2300222D&title_bg=%2307B6FF&icon=react.svg&icon_color=%23FFFFFF&title=React&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23373737&title_bg=%23707070&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FF88BF&title_bg=%23525252&icon=figma.svg&icon_color=%23DDDDDD&title=Figma&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FFDBCA&title_bg=%23FFB9B9&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
