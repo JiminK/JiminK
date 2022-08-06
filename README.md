@@ -1,5 +1,10 @@
 
 ## Hi 〰️ 🧚🏻‍♂️
+
+
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FF5F90&title_bg=%23FFA5CD&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FFDBCA&title_bg=%23FFB9B9&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **JiminK/JiminK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +20,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=JiminK&include_all_commits=true&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimin981005)](https://solved.ac/jimin981005)
+
+
 
 ### 🧸 My SNS
-<a href="https://www.instagram.com/_rlawlalss/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-        
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FF5F90&title_bg=%23FFA5CD&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FFDBCA&title_bg=%23FFB9B9&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://www.instagram.com/_rlawlalss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://vsco.co/jjminvsco/gallery" target="_blank"><img src="https://img.shields.io/badge/VSCO-555555?style=flat-square&logo=Vsco&logoColor=white"/></a>
 
 
 <!-- &include_all_commits=true -->
@@ -101,18 +105,6 @@ Here are some ideas to get you started:
 <!--![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)-->
 <!--![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)-->
-<br>
-
-
-
-<br>
-<div align="center">
-  
-[![Github stats](https://github-readme-stats.vercel.app/api?username=JiminK&include_all_commits=true&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimin981005)](https://solved.ac/jimin981005)
-
-</div>
   
 <!--
 <br/>
