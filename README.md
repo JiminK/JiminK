@@ -1,6 +1,5 @@
 
-### Hi 〰️ 🧚🏻‍♂️
-
+## Hi 〰️ 🧚🏻‍♂️
 <!--
 **JiminK/JiminK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
+### 🧸 My SNS
+<a href="https://www.instagram.com/_rlawlalss/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+        
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FF5F90&title_bg=%23FFA5CD&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FFDBCA&title_bg=%23FFB9B9&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
 
----
-
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=JiminK&include_all_commits=true&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- &include_all_commits=true -->
 <!--
@@ -37,9 +36,11 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwook-choi-woogie)](https://www.linkedin.com/in/jiwook-choi-woogie/)
 ![GitHub followers](https://img.shields.io/github/followers/kkoma2623?style=social)
 -->
----
 
-#### Basic info
+<br>
+
+<!-- #### 🥨 Basic info -->
+### 🥨 About me,
 
 - B.S. degree expected in Computer Science
   - Kookmin University, Seoul, Korea (2018 ~ now)
@@ -51,9 +52,12 @@ Here are some ideas to get you started:
 <!-- LinkedIn: [Jiwook Choi](https://www.linkedin.com/in/jiwook-choi-woogie/)-->
 <!-- Blog: [Velog](https://velog.io/@kkoma2623)-->
 
----
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiminK&hide=jupyter%20notebook&layout=compact&theme=ayu-mirage)](https://github.com/JiminK/JiminK) -->
+
+<br>
+
+### 🍒 My Tech Stack 
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -62,30 +66,31 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5a5a5a?style=flat-square&logo=javascript)
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=Amazon%20AWS)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
-![Slack](https://img.shields.io/badge/-Slack-4e188c?style=flat-square&logo=Slack)
+<br>
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=Amazon%20AWS)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
 ![ROS](https://img.shields.io/badge/-ROS-black?style=flat-square&logo=ROS)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code)
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2e0d7d?style=flat-square&logo=Eclipse)
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-
-
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
+![Slack](https://img.shields.io/badge/-Slack-4e188c?style=flat-square&logo=Slack)
 
 <!--
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -98,7 +103,19 @@ Here are some ideas to get you started:
 <!--![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)-->
 <!--![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)-->
+<br>
 
+
+
+<br>
+<div align="center">
+  
+[![Github stats](https://github-readme-stats.vercel.app/api?username=JiminK&include_all_commits=true&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimin981005)](https://solved.ac/jimin981005)
+
+</div>
+  
 <!--
 <br/>
 
