@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 
 ### 🧸 My SNS
-<a href="https://www.instagram.com/_rlawlalss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://vsco.co/jjminvsco/gallery" target="_blank"><img src="https://img.shields.io/badge/VSCO-555555?style=flat-square&logo=Vsco&logoColor=white"/></a>
+<a href="https://www.instagram.com/_rlawlalss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=white"/></a>
+<a href="https://vsco.co/jjminvsco/gallery" target="_blank"><img src="https://img.shields.io/badge/VSCO-555555?&logo=Vsco&logoColor=white"/></a>
 
 
 <!-- &include_all_commits=true -->
@@ -61,38 +61,38 @@ Here are some ideas to get you started:
 
 ### 🍒 My Tech Stack 
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-5a5a5a?style=flat-square&logo=javascript)
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
-![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-black?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-black?&logo=Java)
+<img src="https://img.shields.io/badge/React-61DAFB?&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?&logo=Next.js&logoColor=white"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-5a5a5a?&logo=javascript)
+<img src="https://img.shields.io/badge/Typescript-3178C6?&logo=Typescript&logoColor=white"/>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?&logo=TensorFlow)
+![Pytorch](https://img.shields.io/badge/-Pytorch-black?&logo=Pytorch)
 <br>
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=Amazon%20AWS)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=Redux)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?&logo=OpenCV)
+<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?&logo=Amazon%20AWS)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?&logo=Jupyter)
+<img src="https://img.shields.io/badge/Anaconda-44A833?&logo=Anaconda&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-![ROS](https://img.shields.io/badge/-ROS-black?style=flat-square&logo=ROS)
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?&logo=Ubuntu&logoColor=white"/>
+![ROS](https://img.shields.io/badge/-ROS-black?&logo=ROS)
+<img src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white"/> 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 <br>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code)
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-![Eclipse](https://img.shields.io/badge/-Eclipse-2e0d7d?style=flat-square&logo=Eclipse)
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
-![Slack](https://img.shields.io/badge/-Slack-4e188c?style=flat-square&logo=Slack)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code)
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?&logo=Visual Studio&logoColor=white"/>
+![Eclipse](https://img.shields.io/badge/-Eclipse-2e0d7d?&logo=Eclipse)
+<img src="https://img.shields.io/badge/PyCharm-000000?&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?&logo=Google Colab&logoColor=white"/>
+![Trello](https://img.shields.io/badge/-Trello-0079BF?&logo=Trello)
+![Slack](https://img.shields.io/badge/-Slack-4e188c?&logo=Slack)
 
 <!--
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
