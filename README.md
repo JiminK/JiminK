@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/kkoma2623?style=social)
 -->
 
-<br>
 
 <!-- #### 🥨 Basic info -->
 ### 🥨 About me,
@@ -55,7 +54,6 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiminK&hide=jupyter%20notebook&layout=compact&theme=ayu-mirage)](https://github.com/JiminK/JiminK) -->
 
-<br>
 
 ### 🍒 My Tech Stack 
 
