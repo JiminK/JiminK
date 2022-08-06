@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminK&count_bg=%23FF5F90&title_bg=%23FFA5CD&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ---
+
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=JiminK&include_all_commits=true&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
