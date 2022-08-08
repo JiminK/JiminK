@@ -74,15 +74,16 @@ Here are some ideas to get you started:
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?&logo=Pytorch)
 <br>
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=Redux)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?&logo=OpenCV)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5F44CB?&logo=OpenCV)
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?&logo=Amazon%20AWS)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?&logo=Jupyter)
 <img src="https://img.shields.io/badge/Anaconda-44A833?&logo=Anaconda&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/macOS-000000?&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?&logo=Ubuntu&logoColor=white"/>
-![ROS](https://img.shields.io/badge/-ROS-black?&logo=ROS)
+![ROS](https://img.shields.io/badge/-ROS-22314E?&logo=ROS)
 <img src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white"/> 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 <br>
@@ -94,15 +95,15 @@ Here are some ideas to get you started:
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?&logo=Trello)
 ![Slack](https://img.shields.io/badge/-Slack-4e188c?&logo=Slack)
 
+
+
 <!--
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MobX](https://img.shields.io/badge/-Mobx-black?style=flat-square&logo=Mobx)
+![MobX](https://img.shields.io/badge/-Mobx-FF9955?&logo=Mobx&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-808080?&logo=Firebase&logoColor=FFCA28)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=Apollo%20GraphQL)-->
 <!--![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)-->
 <!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)-->
-<!--![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)-->
 <!--![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)-->
   
