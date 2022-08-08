@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=JiminK&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=JiminK&include_all_commits=tru&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimin981005)](https://solved.ac/jimin981005)
 
