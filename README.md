@@ -70,8 +70,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Typescript-3178C6?&logo=Typescript&logoColor=white"/>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?&logo=TensorFlow)
-![Pytorch](https://img.shields.io/badge/-Pytorch-black?&logo=Pytorch)
 <br>
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=Redux)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5F44CB?&logo=OpenCV)
@@ -79,6 +77,8 @@ Here are some ideas to get you started:
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?&logo=Amazon%20AWS)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?&logo=Jupyter)
 <img src="https://img.shields.io/badge/Anaconda-44A833?&logo=Anaconda&logoColor=white"/>
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?&logo=TensorFlow)
+![Pytorch](https://img.shields.io/badge/-Pytorch-black?&logo=Pytorch)
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/macOS-000000?&logo=apple&logoColor=white"/>
