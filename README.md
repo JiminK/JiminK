@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5F44CB?&logo=OpenCV)
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?&logo=Amazon%20AWS)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?&logo=Jupyter)
+![Jupyter](https://img.shields.io/badge/-Jupyter-f37320?&logo=Jupyter&logoColor=white)
 <img src="https://img.shields.io/badge/Anaconda-44A833?&logo=Anaconda&logoColor=white"/>
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?&logo=TensorFlow)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?&logo=Pytorch)
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code)
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?&logo=Visual Studio&logoColor=white"/>
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2e0d7d?&logo=Eclipse)
-<img src="https://img.shields.io/badge/PyCharm-000000?&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-28be6e?&logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?&logo=Google Colab&logoColor=white"/>
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?&logo=Trello)
 ![Slack](https://img.shields.io/badge/-Slack-4e188c?&logo=Slack)
