@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimin981005)](https://solved.ac/jimin981005)
 
-
+---
 
 ### 🧸 My SNS
 <a href="https://www.instagram.com/_rlawlalss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=white"/></a>
@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiminK&hide=jupyter%20notebook&layout=compact&theme=ayu-mirage)](https://github.com/JiminK/JiminK) -->
 
-
 ### ✨ Experience
 - Professional Researcher
   - At: Hyundai Autoever
@@ -75,6 +74,7 @@ Here are some ideas to get you started:
     - Manage Front-End development schedule as FE Leader
     - Use React and React hooks for FE development
     - Software Configuration Management (SCM) with Git
+
 
 ### 🍒 My Tech Stack 
 
