@@ -44,20 +44,37 @@ Here are some ideas to get you started:
 
 <!-- #### 🥨 Basic info -->
 ### 🥨 About me,
-
-- B.S. degree expected in Computer Science
-  - Kookmin University, Seoul, Korea (2018 ~ now)
-- Student ID: 20181597
 - Name: Jimin Kim (김지민)
 - GitHub ID: [miniee](https://github.com/JiminK)
 - BOJ(Baekjoon Online Judge) ID: [jimin981005](http://boj.kr/u/jimin981005)
 - email: jimin981005@gmail.com
+- B.S. degree in Computer Science
+  - Kookmin University, Seoul, Korea (2018 ~ 2022)
 <!-- LinkedIn: [Jiwook Choi](https://www.linkedin.com/in/jiwook-choi-woogie/)-->
 <!-- Blog: [Velog](https://velog.io/@kkoma2623)-->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiminK&hide=jupyter%20notebook&layout=compact&theme=ayu-mirage)](https://github.com/JiminK/JiminK) -->
 
+
+### ✨ Experience
+- Professional Researcher
+  - At: Hyundai Autoever
+  - Term: Jan. 2023 ~ now
+  - Location: Samseong-dong, Seoul, South Korea
+  - What I'm doing:
+    - HD Map Transmission Development
+- Capstone Design Project
+  - At: Kookmin University
+  - Term: Jan. 2022 ~ Jun.2022
+  - Location: Seongbuk-gu, Seoul, South Korea
+  - Award:
+    - 2nd Place
+  - Team: IN4U (Interview For You)
+  - What I did:
+    - Manage Front-End development schedule as FE Leader
+    - Use React and React hooks for FE development
+    - Software Configuration Management (SCM) with Git
 
 ### 🍒 My Tech Stack 
 
@@ -92,8 +109,13 @@ Here are some ideas to get you started:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2e0d7d?&logo=Eclipse)
 <img src="https://img.shields.io/badge/PyCharm-28be6e?&logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?&logo=Google Colab&logoColor=white"/>
-![Trello](https://img.shields.io/badge/-Trello-0079BF?&logo=Trello)
+<br>
+![Confluence](https://img.shields.io/badge/-Confluence-1c31e0&logo=Confluence)
+![Jira](https://img.shields.io/badge/-Jira-3c71ff?&logo=Jira&logoColor=ffffff)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue&logo=bitbucket)
 ![Slack](https://img.shields.io/badge/-Slack-4e188c?&logo=Slack)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?&logo=Trello)
+
 
 
 
@@ -102,10 +124,8 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase-808080?&logo=Firebase&logoColor=FFCA28)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=Apollo%20GraphQL)-->
-<!--![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)-->
 <!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)-->
-<!--![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)-->
+<!--![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)-->
   
 <!--
 <br/>
