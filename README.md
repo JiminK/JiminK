@@ -110,9 +110,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PyCharm-28be6e?&logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?&logo=Google Colab&logoColor=white"/>
 <br>
-![Confluence](https://img.shields.io/badge/-Confluence-1c31e0&logo=Confluence)
+![Confluence](https://img.shields.io/badge/-Confluence-1c31e0?style=flat-square&logo=Confluence)
 ![Jira](https://img.shields.io/badge/-Jira-3c71ff?&logo=Jira&logoColor=ffffff)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue&logo=bitbucket)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Slack](https://img.shields.io/badge/-Slack-4e188c?&logo=Slack)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?&logo=Trello)
 
