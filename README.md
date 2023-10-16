@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimin981005)](https://solved.ac/jimin981005)
 
----
+
+
 
 ### 🧸 My SNS
 <a href="https://www.instagram.com/_rlawlalss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=white"/></a>
@@ -44,11 +45,11 @@ Here are some ideas to get you started:
 
 <!-- #### 🥨 Basic info -->
 ### 🥨 About me,
-- Name: Jimin Kim (김지민)
-- GitHub ID: [miniee](https://github.com/JiminK)
-- BOJ(Baekjoon Online Judge) ID: [jimin981005](http://boj.kr/u/jimin981005)
-- email: jimin981005@gmail.com
-- B.S. degree in Computer Science
+- Name  : Jimin Kim (김지민)
+- E-mail  : jimin981005@gmail.com
+- GitHub ID : [miniee](https://github.com/JiminK)
+- BOJ(Baekjoon Online Judge) ID : [jimin981005](http://boj.kr/u/jimin981005)
+- Education : B.S. degree in Computer Science
   - Kookmin University, Seoul, Korea (2018 ~ 2022)
 <!-- LinkedIn: [Jiwook Choi](https://www.linkedin.com/in/jiwook-choi-woogie/)-->
 <!-- Blog: [Velog](https://velog.io/@kkoma2623)-->
@@ -58,23 +59,28 @@ Here are some ideas to get you started:
 
 ### ✨ Experience
 - Professional Researcher
-  - At: Hyundai Autoever
-  - Term: Jan. 2023 ~ now
-  - Location: Samseong-dong, Seoul, South Korea
-  - What I'm doing:
+  - At : Hyundai Autoever, Samseong-dong, Seoul, South Korea
+  - Term : Jan. 2023 ~ now
+  - What I'm doing :
     - HD Map Transmission Development
 - Capstone Design Project
-  - At: Kookmin University
-  - Term: Jan. 2022 ~ Jun.2022
-  - Location: Seongbuk-gu, Seoul, South Korea
-  - Award:
+  - At : Kookmin University, Seongbuk-gu, Seoul, South Korea
+  - Term : Jan. 2022 ~ Jun.2022
+  - Award :
     - 2nd Place
-  - Team: IN4U (Interview For You)
-  - What I did:
-    - Manage Front-End development schedule as FE Leader
+  - Team : IN4U (Interview For You)
+  - What I did :
+    - Manage FE(Front-End) development schedule as FE Leader
     - Use React and React hooks for FE development
-    - Software Configuration Management (SCM) with Git
-
+    - SCM(Software Configuration Management) with Git
+<!-- 
+- FOSCAR
+  - Description : Kookmin University Autonomous-Driving Club
+  - At : Kookmin University, Seongbuk-gu, Seoul, South Korea
+  - Term : Sep. 2018 - Aug. 2022
+  - What I did :
+    - dsd
+-->
 
 ### 🍒 My Tech Stack 
 
